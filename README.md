@@ -1,17 +1,27 @@
-# AI-TOOLS
-AI Tools Collection: Empowering Developers with Cutting-Edge Intelligence  
-# Sentiment Analysis AI Tool
+# AI Application Redirect
 
-This simple Python tool uses Hugging Face's `transformers` library to analyze the sentiment of a given text using a pre-trained BERT model.
+This repository contains a simple React-based AI application that redirects users to [www.magna-academe.in](http://www.magna-academe.in).
 
-## Requirements
+## Getting Started
 
-- Python 3.x
-- Hugging Face `transformers` library
-- PyTorch
+1. Clone this repository:
+   `git clone <repository_url>`
 
-## Installation
+2. Navigate into the project directory:
+   `cd ai_app_redirect_repo`
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/Sentiment-Analysis-AI-Tool.git
+3. Install dependencies:
+   `npm install`
+
+4. Run the application locally:
+   `npm start`
+
+5. Visit the app at [http://localhost:3000](http://localhost:3000).
+
+## Deployment
+
+Follow [GitHub Pages](https://pages.github.com/) or other hosting instructions to deploy this project.
+
+## License
+
+This project is licensed under the MIT License.
