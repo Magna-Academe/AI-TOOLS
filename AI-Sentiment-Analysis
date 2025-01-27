@@ -1,0 +1,14 @@
+# Create a local Git repo in your project folder
+git init
+
+# Add the files
+git add sentiment_analysis.py README.md
+
+# Commit the changes
+git commit -m "Initial commit for sentiment analysis AI tool"
+
+# Add the remote GitHub repository (replace with your actual repository URL)
+git remote add origin https://github.com/yourusername/Sentiment-Analysis-AI-Tool.git
+
+# Push the code to GitHub
+git push -u origin master
